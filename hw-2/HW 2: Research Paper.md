@@ -1,4 +1,4 @@
-# HW 2:  Research Paper 
+# HW 2: Research Paper 
 
 For this homework assignment, you will write a research paper on a topic that intrigued you in this class.
 
@@ -39,10 +39,3 @@ Write a research paper on one of the following topics:
     - Windows Server Technologies: An Overview of AD, DNS, LDAP, DHCP, and SAML
 
 Any other topics must be approved by the professor.
-
-
-
-
-
-
-
