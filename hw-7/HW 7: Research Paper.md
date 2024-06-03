@@ -1,4 +1,4 @@
-# HW 5: Research Paper 
+# HW 7: Research Paper 
 
 For this homework assignment, you will write a research paper on a topic that intrigued you in this class.
 
