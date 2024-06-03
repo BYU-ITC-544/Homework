@@ -2,7 +2,7 @@
 
 An Acceptable Use Policy (AUP) is a critical document that outlines the guidelines and expectations for the appropriate use of an organization’s information technology resources. A well-written AUP ensures that all users, including employees, students, and contractors, understand their responsibilities and the boundaries of acceptable behavior when accessing and utilizing these resources. By establishing clear rules and procedures, an AUP helps protect the organization from potential misuse, security breaches, and legal liabilities. It also promotes a safe, ethical, and productive environment for all users. This policy is essential for maintaining the integrity and security of the organization's digital assets and fostering a culture of respect and compliance.
 
-# Instructions
+## Instructions
 
 Using the organization and network from milestone 1 create an Acceptable Use Policy (AUP). It should include at a minimum:
 
