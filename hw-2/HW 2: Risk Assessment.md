@@ -1,18 +1,6 @@
 # Milestone 2: Risk Assessments
 
-### Risk Assessments
-
-1. Identify potential risks: Risk assessment helps to identify potential risks that could impact the organization's assets, such as data, systems, employees, and reputation.
-
-2. Prioritize risks: Risk assessment helps to prioritize risks based on their likelihood and impact so that the organization can allocate resources more effectively to mitigate the highest-priority risks.
-
-3. Reduce vulnerabilities: Risk assessment helps to identify vulnerabilities in the organization's systems and processes so that they can be addressed proactively to reduce the risk of a security breach.
-
-4. Compliance: Risk management helps organizations to comply with regulatory requirements, such as HIPAA, PCI DSS, and GDPR, which require risk assessments and risk management programs to protect sensitive information.
-
-5. Cost-effective: Risk management helps organizations to reduce the cost of security incidents by proactively mitigating risks before they occur. This can save the organization money on legal fees, data recovery costs, and reputational damage.
-
-6. Continuous improvement: Risk assessment and risk management are ongoing processes that help organizations to continuously improve their security posture by identifying new risks and addressing them proactively.
+Risk assessments are a foundational component of an organization's risk management strategy, aimed at identifying, evaluating, and mitigating potential threats to its operations, assets, and personnel. This systematic process involves recognizing hazards, analyzing the likelihood and impact of these risks, and determining appropriate measures to minimize or eliminate them. By conducting thorough risk assessments, organizations can proactively address vulnerabilities, improve decision-making, and ensure compliance with legal and regulatory requirements.
 
 ## Instructions:
 
@@ -40,5 +28,5 @@ In addition to a written document, you should create a spreadsheet to document a
 
 ## Submission Requirements
 
-[ ] 100 Points - Submit your comprehensive risk management documents to Learning Suite. Submit documents in the appropriate file format.
+Submit your comprehensive risk management documents to Learning Suite. Submit documents in the appropriate file format.
 
