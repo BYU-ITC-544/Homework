@@ -1,4 +1,4 @@
-# Milestone 2: Risk Assessments
+# HW 2: Risk Assessments
 
 Risk assessments are a foundational component of an organization's risk management strategy, aimed at identifying, evaluating, and mitigating potential threats to its operations, assets, and personnel. This systematic process involves recognizing hazards, analyzing the likelihood and impact of these risks, and determining appropriate measures to minimize or eliminate them. By conducting thorough risk assessments, organizations can proactively address vulnerabilities, improve decision-making, and ensure compliance with legal and regulatory requirements.
 
