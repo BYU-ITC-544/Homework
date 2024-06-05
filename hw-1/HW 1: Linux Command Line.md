@@ -1,6 +1,6 @@
 # HW 1: Linux Command Line
 
-## Linux CLI
+## Instructions
 
 Complete `overthewire` wargame `Leviathan`
 
