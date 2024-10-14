@@ -4,7 +4,7 @@ Operational assessments are a vital process for evaluating the efficiency, effec
 
 ## Instructions:
 
-1. Complete one of the operational assessments from Chapter 56: Operational Assessments 
+1. Complete one of the operational assessments from Chapter 56: Operational Assessments on Spicy Cluck Co. as it currently stands in your group. 
 
 ## Submission Requirements
 
