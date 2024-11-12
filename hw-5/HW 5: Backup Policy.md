@@ -19,7 +19,6 @@ Your backup policy must cover at a minimum the following points:
 11. Scalability and growth
 12. Compliance and regulatory requirements
 13. Disaster recovery planning
-14. Regular review and testing
 
 Remember, a well-defined backup policy should align with your organization's needs and risk tolerance. It should strike a balance between data protection, cost, and operational efficiency while considering any industry-specific requirements.
 
