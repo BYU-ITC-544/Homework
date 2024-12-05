@@ -58,11 +58,11 @@ You are part of the new IT department for Spicy Cluck Co., a company with a chai
         - Set intervals for SLA review and adjustments based on changing needs or circumstances.
 
     1. Signatures
-        - Provide space for signatures of the responsible parties to formalize the agreement.
+        - Provide space for the signatures of the responsible parties to formalize the agreement.
 
 ## Formatting
 
-- The backup policy should be between 2-5 pages in length, depending on the complexity of the organization and its needs.
+- The service level agreement should be between 2-5 pages in length, depending on the complexity of the organization and its needs.
 - Use clear headings and subheadings for each section.
 - Ensure proper grammar, punctuation, and spelling.
 
