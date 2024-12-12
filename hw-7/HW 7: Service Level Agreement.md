@@ -1,7 +1,5 @@
 # HW 7: Service Level Agreement
 
-## Instructions for Students: Selecting and Writing an SLA for Spicy Cluck Co.
-
 ### Objective:
 You are part of the new IT department for Spicy Cluck Co., a company with a chain of fried chicken stores across the United States and Europe. Your team has been tasked with setting up a new regional office in Provo, Utah, which requires various IT services and systems. You will select a specific service from a provided list and write a detailed Service Level Agreement (SLA) for that service.
 
